@@ -1,0 +1,24 @@
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Skills International School.exe
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Skills International School.deps.json
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Skills International School.runtimeconfig.json
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Skills International School.runtimeconfig.dev.json
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Skills International School.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Skills International School.pdb
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.csprojAssemblyReference.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills_International_School.Form1.resources
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.csproj.GenerateResource.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.AssemblyInfoInputs.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.AssemblyInfo.cs
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.csproj.CoreCompileInputs.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.dll
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.pdb
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.genruntimeconfig.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills_International_School.form2.resources
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills International School.csproj.CopyComplete
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills_International_School.Properties.Resources.resources

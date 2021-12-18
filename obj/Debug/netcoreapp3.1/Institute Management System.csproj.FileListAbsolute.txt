@@ -1,0 +1,47 @@
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Institute Management System.exe
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Institute Management System.deps.json
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Institute Management System.runtimeconfig.json
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Institute Management System.runtimeconfig.dev.json
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Institute Management System.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\Institute Management System.pdb
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Praveena\One\Skills International School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills_International_School.Form1.resources
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills_International_School.form2.resources
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Skills_International_School.Properties.Resources.resources
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.csproj.GenerateResource.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.AssemblyInfoInputs.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.AssemblyInfo.cs
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.csproj.CoreCompileInputs.cache
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.csproj.CopyComplete
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.dll
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.pdb
+E:\Praveena\One\Skills International School\obj\Debug\netcoreapp3.1\Institute Management System.genruntimeconfig.cache
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\Institute Management System.exe
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\Institute Management System.deps.json
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\Institute Management System.runtimeconfig.json
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\Institute Management System.runtimeconfig.dev.json
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\Institute Management System.dll
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\Institute Management System.pdb
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Praveena\One\Institute Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.csprojAssemblyReference.cache
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Skills_International_School.Form1.resources
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Skills_International_School.form2.resources
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Skills_International_School.Properties.Resources.resources
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.csproj.GenerateResource.cache
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.AssemblyInfoInputs.cache
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.AssemblyInfo.cs
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.csproj.CoreCompileInputs.cache
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.csproj.CopyComplete
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.dll
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.pdb
+E:\Praveena\One\Institute Management System\obj\Debug\netcoreapp3.1\Institute Management System.genruntimeconfig.cache
